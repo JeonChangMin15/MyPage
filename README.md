@@ -1,1 +1,1 @@
-# mypage.html
+# mypage
